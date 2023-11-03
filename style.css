@@ -145,8 +145,8 @@ body {
   
   p {
     font-family: 'Times New Roman', Times, serif;
-    margin: 30px;
-    color:white ;
+    margin: 40px;
+    color:#F1C40F ;
   }
   
   .name {
@@ -158,9 +158,9 @@ body {
   
   .back {
     font-family: Tahoma, sans-serif;
-    color: black;
+    color: #E74C3C;
     text-align: center;
-    margin: 30px;
+    margin: 15px;
     outline-color: #333;
     outline-style: dotted;
   }
